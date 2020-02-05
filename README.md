@@ -1,5 +1,5 @@
 # vue-interactive-paycard (npm package is coming)
-
+Formulaire interactif de paiement par carte bancaire (VISA, Discover, Mastercard...) réalisé avec VueJS.
 
 
 
